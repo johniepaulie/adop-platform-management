@@ -1,1 +1,1 @@
-https://github.com/Accenture/adop-cartridge-java.git
+https://github.com/johniepaulie/adop-cartridge-hostcentric.git
